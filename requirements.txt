@@ -1,7 +1,8 @@
 Flask
-tensorflow
+tensorflow-cpu
 pandas
 numpy
 scikit-learn
 joblib
 gunicorn
+
